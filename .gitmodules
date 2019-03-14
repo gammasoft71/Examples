@@ -1,3 +1,30 @@
 [submodule "Examples.C"]
 	path = Examples.C
 	url = https://github.com/gammasoft71/Examples.C
+[submodule "Examples.CSharp"]
+	path = Examples.CSharp
+	url = https://github.com/gammasoft71/Examples.CSharp
+[submodule "Examples.Cpp"]
+	path = Examples.Cpp
+	url = https://github.com/gammasoft71/Examples.Cpp
+[submodule "Examples.Cocoa"]
+	path = Examples.Cocoa
+	url = https://github.com/gammasoft71/Examples.Cocoa
+[submodule "Examples.FLTK"]
+	path = Examples.FLTK
+	url = https://github.com/gammasoft71/Examples.FLTK
+[submodule "Examples.Gtkmm"]
+	path = Examples.Gtkmm
+	url = https://github.com/gammasoft71/Examples.Gtkmm
+[submodule "Examples.Python"]
+	path = Examples.Python
+	url = https://github.com/gammasoft71/Examples.Python
+[submodule "Examples.Qt"]
+	path = Examples.Qt
+	url = https://github.com/gammasoft71/Examples.Qt
+[submodule "Examples.Win32"]
+	path = Examples.Win32
+	url = https://github.com/gammasoft71/Examples.Win32
+[submodule "Examples.wxWidgets"]
+	path = Examples.wxWidgets
+	url = https://github.com/gammasoft71/Examples.wxWidgets
