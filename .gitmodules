@@ -1,30 +1,30 @@
-[submodule "Examples.C"]
-	path = Examples.C
-	url = https://github.com/gammasoft71/Examples.C
-[submodule "Examples.CSharp"]
-	path = Examples.CSharp
-	url = https://github.com/gammasoft71/Examples.CSharp
-[submodule "Examples.Cpp"]
-	path = Examples.Cpp
-	url = https://github.com/gammasoft71/Examples.Cpp
-[submodule "Examples.Cocoa"]
-	path = Examples.Cocoa
-	url = https://github.com/gammasoft71/Examples.Cocoa
-[submodule "Examples.FLTK"]
-	path = Examples.FLTK
-	url = https://github.com/gammasoft71/Examples.FLTK
-[submodule "Examples.Gtkmm"]
-	path = Examples.Gtkmm
-	url = https://github.com/gammasoft71/Examples.Gtkmm
-[submodule "Examples.Python"]
-	path = Examples.Python
-	url = https://github.com/gammasoft71/Examples.Python
-[submodule "Examples.Qt"]
-	path = Examples.Qt
-	url = https://github.com/gammasoft71/Examples.Qt
-[submodule "Examples.Win32"]
-	path = Examples.Win32
-	url = https://github.com/gammasoft71/Examples.Win32
-[submodule "Examples.wxWidgets"]
-	path = Examples.wxWidgets
-	url = https://github.com/gammasoft71/Examples.wxWidgets
+[submodule "Examples_C"]
+	path = Examples_C
+	url = https://github.com/gammasoft71/Examples_C
+[submodule "Examples_Cocoa"]
+	path = Examples_Cocoa
+	url = https://github.com/gammasoft71/Examples_Cocoa
+[submodule "Examples_Cpp"]
+	path = Examples_Cpp
+	url = https://github.com/gammasoft71/Examples_Cpp
+[submodule "Examples_CSharp"]
+	path = Examples_CSharp
+	url = https://github.com/gammasoft71/Examples_CSharp
+[submodule "Examples_FLTK"]
+	path = Examples_FLTK
+	url = https://github.com/gammasoft71/Examples_FLTK
+[submodule "Examples_Gtkmm"]
+	path = Examples_Gtkmm
+	url = https://github.com/gammasoft71/Examples_Gtkmm
+[submodule "Examples_Python"]
+	path = Examples_Python
+	url = https://github.com/gammasoft71/Examples_Python
+[submodule "Examples_Qt"]
+	path = Examples_Qt
+	url = https://github.com/gammasoft71/Examples_Qt
+[submodule "Examples_Win32"]
+	path = Examples_Win32
+	url = https://github.com/gammasoft71/Examples_Win32
+[submodule "Examples_wxWidgets"]
+	path = Examples_wxWidgets
+	url = https://github.com/gammasoft71/Examples_wxWidgets
