@@ -28,3 +28,6 @@
 [submodule "Examples_wxWidgets"]
 	path = Examples_wxWidgets
 	url = https://github.com/gammasoft71/Examples_wxWidgets
+[submodule "Examples_Gtk"]
+	path = Examples_Gtk
+	url = https://github.com/gammasoft71/Examples_Gtk
