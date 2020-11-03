@@ -1,6 +1,6 @@
 # Examples
 
-📖 Shows how to use gui controls with some common toolkits.
+Shows how to use gui controls with some common toolkits.
 
 ## Toolkits
 
